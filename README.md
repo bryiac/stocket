@@ -1,2 +1,3 @@
-# stocket
-https://github.com/coloredwax/stocket.git
+<h1 align="center">
+  <b>⚠️ ARCHIVED ⚠️</b>
+</h1>
